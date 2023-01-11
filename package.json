@@ -1,11 +1,11 @@
 {
-    "name": "Selvania-Launcher",
+    "name": "TostiCraft-Launcher",
     "preductname": "Selvania Launcher",
-    "version": "1.1.0",
-    "description": "Launcher Mincraft custom (crack, premium)",
+    "version": "2.1.1",
+    "description": "Launcher for the TostiCraft Minecraft server",
     "main": "src/app.js",
-    "author": "Luuxis",
-    "url": "http://launcher.selvania.fr",
+    "author": "TostiCraft",
+    "url": "http://142.93.238.136/",
     "engines": {
         "node": "^18.x.x"
     },
@@ -25,12 +25,12 @@
     },
     "devDependencies": {
         "cross-env": "^7.0.3",
-        "electron": "^22.0.0",
+        "electron": "^20.0.0",
         "electron-builder": "^23.0.3",
         "nodemon": "^2.0.16"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/luuxis/Selvania-Launcher.git"
+        "url": "git+https://github.com/TostiCraft/TostiCraftLauncher.git"
     }
 }
